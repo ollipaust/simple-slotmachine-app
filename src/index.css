@@ -128,10 +128,7 @@ button[disabled] {
 .machine-button_stop {
   background: rgb(202, 60, 60);
 }
-footer > p {
+footer {
+  display: block;
   text-align: center;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
 }
