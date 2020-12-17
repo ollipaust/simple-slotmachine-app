@@ -4,7 +4,7 @@
 
 ## Live Sandbox
 
-https://codesandbox.io/s/simple-slotmachine-app-fcd1x
+https://codesandbox.io/s/simple-slotmachine-app-v6v8e
 
 ## Features
 
